@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 var Highlights = require('highlights');
 var highlighter = new Highlights();
 
